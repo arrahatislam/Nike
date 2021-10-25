@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;500&display=swap');
+/* comone css strt */
+a{
+    font-family: 'Roboto Slab', serif;
+}
+h1.display-1{
+    font-family: 'Bebas Neue', cursive; ;
+    color: #FABE4C;
+}
+h1.display-1.of{
+    font-family: 'Bebas Neue', cursive; 
+    color: #363958;
+}
+h1.of{
+    font-family: 'Bebas Neue', cursive; 
+    color: #363958;
+}
+h1.parich{
+    font-family: 'Bebas Neue', cursive; ;
+    color: #FABE4C;
+}
+h3.of{
+    font-family: 'Bebas Neue', cursive; 
+    color: #363958;
+}
+h4.of{
+    font-family: 'Bebas Neue', cursive; 
+    color: #363958;
+}
+/* comone css end */
+/* button bg color strt */
+button.bg {
+    color: #fff;
+   background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+    
+}
+/* button bg color end */
+/* nav color strt*/
+.navbar-light .navbar-nav .nav-link {
+    color: #000;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #000;
+}
+.dropdown-menu {
+    border: none;
+    color:#3C3C3C;
+    font-weight: 500;
+    
+}
+/* nav color end */
+/* card strt */
+.bg-card{
+    background-color:#F1F1F1 ;
+    border-radius: 10px;
+}
+
+.rounded {
+    border-radius: 1.25rem!important;
+}
+/* card end */
+.b-r{
+    border-radius: 15px;
+}
+@media (max-width: 576px){
+    .text-m{
+        text-align: center;
+    }
+}
